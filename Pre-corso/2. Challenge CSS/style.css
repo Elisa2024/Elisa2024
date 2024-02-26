@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Prata&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&family=Prata&display=swap');
+               
+body { 
+    margin: 0;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.main-section {
+    padding: 20px;
+}
+
+.image-container { 
+    height: 500px;
+    background-image: url('https://www.sicilia.info/wp-content/uploads/sites/91/etna-hd.jpg');
+    background-size: auto;
+}
+
+#Pedara { 
+    height: 500px;
+    background-image: url('https://it.wikivoyage.org/wiki/Pedara#/media/File:Santuario_di_Maria_Santissima_Annunziata_(Pedara)_01.jpg');
+    background-size: auto;
+}
+
+#Nicolosi { 
+    height: 500px;
+    background-image: url('https://cdn-italiani-media.italiani.it/site-nicolosi/sites/88/2020/06/piazza-di-Nicolosi-al-tramonto-1000x600.jpg');
+    background-size: auto;
+}
+
+#Zafferana_Etnea { 
+    height: 500px;
+    background-image: url('https://cdn-italiani-media.italiani.it/site-nicolosi/sites/88/2020/06/piazza-di-Nicolosi-al-tramonto-1000x600.jpg');
+    background-size: auto;
+}
+
+#Bronte { 
+    height: 500px;
+    background-image: url('https://www.citymapsicilia.it/wp-content/uploads/2016/03/bronte.jpg');
+    background-size: auto;
+}
+
+#Randazzo { 
+    height: 500px;
+    background-image: url('https://etnaportal.it/public/upload/foto/big/570_200255fef36fb0b11e702014112120463150106aff07053de2e801e771.jpg');
+    background-size: auto;
+}
+
+h1 {
+   font-size: 64px; 
+   margin-bottom: 0;
+}
+
+h3 {
+    font-size: 24px;
+    font-weight: 400;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+h6 {
+    padding: 22px;
+    margin-top: 56;
+    margin-bottom: 0;
+    color: white;
+    border-radius: 6px;
+    background-image: -webkit-linear-gradient(top right, #9f6827 0%, #819fa3 100%);
+    width: auto;
+    
+}
+
+a {
+    font-weight: 600;
+    font-style: italic;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;  
+}
+
+li {
+    padding: 0;
+}
+
+.list {
+    padding: 6px 0px 6px 22px;
+    border-bottom: 1px;
+    border-color: #dfdfdf;
+}
+
+a.link { 
+    color: #9f6827; 
+    text-decoration: none; 
+}
+
+a.link:active { 
+    color: #9f6827;
+    text-decoration: none;  
+}
+
+a.link:visited { 
+    color: #9f6827;
+    text-decoration: none; 
+}
+
+footer { background-color: black;
+    color: white;
+    height: 40px;
+    padding-top: 8px;
+    padding-left: 20px;
+}
